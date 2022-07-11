@@ -7,3 +7,5 @@ A counter that can perform count up or down is proposed as sub-module
 A top contains a counter up and a counter down instance.
 Some stimulis are proposed in the main file
 Print info are provided
+
+Code is proposed with a maximum of verilog code implementation example
